@@ -1,9 +1,9 @@
-Package: com.lutoan.realcc
+Package: com.jakeashacks.realcc
 Version: 1.0.2
 Section: Utilities
 Maintainer: lutoan
 Architecture: iphoneos-arm
-Filename: ./debs/Realcc.deb
+Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
 Size: 4,186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 Description: Dung de tat/mo Wifi, Du lieu mang ngay tu control center
